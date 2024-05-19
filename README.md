@@ -5,7 +5,7 @@
 <p>Um projeto dedicado ao universo dos super-heróis, trazendo informações detalhadas sobre seus personagens favoritos. Neste exemplo, apresentamos o Batman, um dos mais icônicos super-heróis da DC Comics.</p> 
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/projeto-api/assets/110783805/bcb0781d-540e-40d3-90c3-885b09f2ac83)
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 
