@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://superheroapi.netlify.app/">Projeto Super Herói</a> utilizando API
+<a href="https://apisuperhero.netlify.app/">Projeto Super Herói</a> utilizando API
 
 <p>Um projeto dedicado ao universo dos super-heróis, trazendo informações detalhadas sobre seus personagens favoritos. Neste exemplo, apresentamos o Batman, um dos mais icônicos super-heróis da DC Comics.</p> 
 </div>
